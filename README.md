@@ -32,8 +32,12 @@ pip install -r requirements.txt
 
 <h3>5. Add OpenAI API Key</h3>
 Get an OpenAI API Key from here: https://platform.openai.com/settings/organization/admin-keys<BR>
+
 Add it to .env
 
+```
+OPENAI_API_KEY=''
+```
 
 <h2>Executing the scripts</h2>
 
