@@ -7,8 +7,8 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-
-cd Retrieval-Augmented-Generation
+git clone https://github.com/iamshahboz/RAG-with-Python.git
+cd RAG-with-Python
 ```
 
 <h3>2. Create a virtual environment</h3>
